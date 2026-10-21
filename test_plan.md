@@ -1,4 +1,4 @@
-cat >> test_plan.md << 'EOF'
+
 
 Goal: tell titanium from Inconel fasteners with at least 99% certainty.
 
