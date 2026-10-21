@@ -1,2 +1,5 @@
+cat > data_notes.csv << 'EOF'
 run_id,fastener_id,material,signal_peak,classification
-Exported rows must include a classification.
+1,T01,Titanium,0.82,Titanium
+1,I01,Inconel,1.12,Inconel
+EOF
